@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.0",
+	"VersionName": "2.0.1",
 	"FriendlyName": "SpiralStairs",
 	"Description": "",
 	"Category": "Modding",
@@ -18,7 +18,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.0"
+			"SemVersion": "^3.11.2"
 		},
 		{
 			"Name": "JeanMichelCommonlib",
@@ -26,8 +26,8 @@
 			"SemVersion": "2.0.0"
 		}
 	],
-	"SemVersion": "2.0.0",
-	"GameVersion": ">=410840",
+	"SemVersion": "2.0.1",
+	"GameVersion": ">=416835",
 	"LocalizationTargets": [
 		{
 			"Name": "SpiralStairs",
